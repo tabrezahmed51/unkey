@@ -24,6 +24,6 @@
   "dependencies": {
     "@unkey/id": "workspace:^",
     "mysql2": "catalog:",
-    "drizzle-orm": "0.45.1"
+    "drizzle-orm": "0.45.2"
   }
 }

@@ -15,7 +15,7 @@ allowBuilds:
   ssh2: true
 
 catalog:
-  zod: 4.6.6
+  zod: 4.6.7
   mysql2: 3.23.1
   tailwindcss: 4.2.1
   clsx: 2.1.1
@@ -27,7 +27,7 @@ catalog:
 overrides:
   "@radix-ui/react-dialog": "1.1.15"
   "@radix-ui/react-popover": "1.1.15"
-  "zod": "4.6.6"
+  "zod": "4.6.7"
   "@tanstack/router-generator>zod": "3.24.4"
   "@tanstack/start-plugin-core>zod": "3.24.4"
   "@tanstack/router-plugin>zod": "3.24.4"
